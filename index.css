@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: aqua;
+    background-color: grey;
     width: auto;
 }
 
@@ -40,7 +40,7 @@ img:hover {
     cursor: pointer;
 }
 button:hover {
-    background-color: green;
+    background-color: grey;
     color: white;
 }
 .right {
