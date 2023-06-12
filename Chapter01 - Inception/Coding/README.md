@@ -1,11 +1,12 @@
-Namaste React Series by Akshay Saini
+# Namaste React Series by Akshay Saini
 
-Chapter 01 - Inception
+## Chapter 01 - Inception
 
 Coding -
 
 Set up all the tools in your laptop
 VS Code
+
 Chrome
 Extensions of Chrome
 Create a new Git repo
@@ -22,4 +23,5 @@ Learn about Arrow Functions before the next class
 
 References:
 https://beta.reactjs.org/apis/react/createElement
+
 https://www.youtube.com/watch?v=IrHmpdORLu8
