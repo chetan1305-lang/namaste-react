@@ -1,6 +1,9 @@
 Namaste React Series by Akshay Saini
+
 Chapter 01 - Inception
+
 Coding -
+
 Set up all the tools in your laptop
 VS Code
 Chrome
@@ -16,6 +19,7 @@ Create nested React Elements
 Use root.render
 Push code to Github (Theory as well as code)
 Learn about Arrow Functions before the next class
+
 References:
 https://beta.reactjs.org/apis/react/createElement
 https://www.youtube.com/watch?v=IrHmpdORLu8
